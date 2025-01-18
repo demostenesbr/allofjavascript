@@ -1,3 +1,5 @@
+// Exercícios - Const e Let
+
 const nome = 'Demóstenes';
 const sobrenome = 'Brito';
 const idade = 45;

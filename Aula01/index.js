@@ -1,1 +1,3 @@
-console.log('Aula 01')
+// Comentários no código
+
+console.log('Aula 01');
