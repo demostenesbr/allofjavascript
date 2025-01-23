@@ -1,4 +1,4 @@
-// Tipos de dados primitivos
+// Tipos de dados primitivos - Aula 10
 // String, number, underfined, null, boolean, symbol
 
 const nome = 'Demóstenes'; // string
